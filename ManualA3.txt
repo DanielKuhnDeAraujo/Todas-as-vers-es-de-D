@@ -8,3 +8,5 @@ msub : subtraem os próximos dois items e coloca no out ( se forem números , su
 mmulti: Multiplica os próximos dois items  e coloca no out( se forem números , multiplicação como se fossem duas strings))
 mdiv: Divide os próximos dois items  e coloca no out ( se forem números , divisão como se fossem duas strings)
 m : mostra o out. limpa out.
+nvar: abreviação de nova variavel. adiciona um item no final da lista var(que serve como memória) com o valor que aparecer depois de nvar
+!!! Falta mais coisa , ainda n terminei o arquivo !!!
