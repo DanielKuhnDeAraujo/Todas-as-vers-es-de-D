@@ -1,0 +1,10 @@
+Manual da versão : A3
+No final do programa a váriavel out é mostrada
+Não é mais preciso que no começo do programa você comece colocando um número com a quantidade depalvras no código
+Lista de comandos :
+mostrar x: o x tem que ser algum número. as próximas x palavras são adicionadas na variavel out.
+msoma : soma os próximos dois items  e coloca no out( se forem números , soma como se fossem duas strings))
+msub : subtraem os próximos dois items e coloca no out ( se forem números , subtrai como se fossem duas strings))
+mmulti: Multiplica os próximos dois items  e coloca no out( se forem números , multiplicação como se fossem duas strings))
+mdiv: Divide os próximos dois items  e coloca no out ( se forem números , divisão como se fossem duas strings)
+m : mostra o out. limpa out.
