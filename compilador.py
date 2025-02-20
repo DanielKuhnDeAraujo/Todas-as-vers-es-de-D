@@ -1,4 +1,7 @@
+# para comentários usa-se #. eles n são fechados fica como comentário a linha inteira
+#Recebe o código em D
 a=input("Digite seu código")
+#split transforma o código recebido em uma lista sendo cada palavra um elemento
 a=a.split()
 c=1
 out=""
