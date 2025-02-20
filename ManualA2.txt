@@ -1,4 +1,4 @@
-Manual da versão : compilador.txt
+Manual da versão : A2
 No final do programa a váriavel out é mostrada
 Não é mais preciso que no começo do programa você comece colocando um número com a quantidade depalvras no código
 Lista de comandos :
